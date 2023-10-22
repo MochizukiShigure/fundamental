@@ -39,6 +39,7 @@
 3.安装
 
 （个人喜好）
+
 <img decoding="VS code" src="install.png" width="50%">
 
 1：在桌面创建快捷方式：win10勾选，win11不勾选
