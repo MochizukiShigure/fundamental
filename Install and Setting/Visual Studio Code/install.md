@@ -9,9 +9,11 @@
 
 
 1.打开官网，点击download for windows右侧箭头
+
 <img decoding="VS code" src="offical.png" width="50%">
 
 2.选择Other downloads
+
 <img decoding="VS code" src="other downloads.png" width="50%">
 
 **User Installer**版：
