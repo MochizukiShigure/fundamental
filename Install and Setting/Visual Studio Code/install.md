@@ -12,7 +12,7 @@
 <img decoding="VS code" src="offical.png" width="50%">
 
 2.选择Other downloads
-![VS Code](other downloads.png)
+<img decoding="VS code" src="other downloads.png" width="50%">
 
 **User Installer**版：
 
